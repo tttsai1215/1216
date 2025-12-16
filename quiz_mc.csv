@@ -1,0 +1,21 @@
+題目,選項A,選項B,選項C,選項D,答案,答對回饋,答錯回饋,提示
+"在JavaScript中,用來宣告一個常數(不可變動的變數)的關鍵字是甚麼?",let,var,const,static,C,"沒錯! const 用來宣告一個值不能被重新賦值的常數。",再想想看，這個關鍵字是ES6引入的，用來確保變數的不可變動性。,這個關鍵字以 'c' 開頭。
+"HTML的全名是甚麼?",HyperText Markup Language,High-Level Text Manager,Home Tool Management Logic,Hyper-Transferable Machine Language,A,"答對了! 就是超文本標記語言。",不對喔，它是一種標記語言，不是程式語言。,想想看 'HT' 和 'ML' 分別代表甚麼。
+"CSS代表甚麼?",Computer Style Sheets,Creative Style System,Cascading Style Sheets,Colorful Style Syntax,C,"完全正確! 層疊樣式表，用來設計網頁的外觀。",差一點，它和網頁的「風格」有關。,想想看 Style Sheets。
+"在Python中,如何印出 'Hello, World!'?",console.log("Hello, World!"),print("Hello, World!"),echo "Hello, World!",System.out.println("Hello, World!"),B,"太棒了! 你知道Python的基礎語法。",不完全正確，記得要用括號把要印出的文字包起來。,Python使用一個很直觀的函式來輸出文字。
+"哪一個不是JavaScript的原始資料型別(primitive data type)?",String,Number,Object,Boolean,C,"正確! Object是複雜資料型別,不是原始型別。",這個選項本身可以包含其他的值，所以它不是原始的。,原始型別包含 string, number, boolean, null, undefined, symbol, bigint。
+"HTTP狀態碼 404 代表甚麼?",OK,Internal Server Error,Forbidden,Not Found,D,"是的! 404代表伺服器找不到請求的資源。",不對，這是最常見的錯誤碼之一，代表「找不到」。,當你點一個壞掉的連結時會看到這個。
+"Git中用來建立一個新分支的指令是甚麼?",git new-branch,git commit,git branch <name>,git merge,C,"沒錯! `git branch <name>` 或 `git checkout -b <name>` 都可以。",不對喔，這個指令和「分支」有關。,指令中有 'branch' 這個詞。
+"用來為網頁定義主要內容區塊的HTML5語意化標籤是甚麼?",<div>,<body>,<main>,<section>,C,"答對了! <main> 標籤有助於SEO和無障礙訪問。",不對，這個標籤直接代表「主要的」內容。,這個標籤的名稱就叫 'main'。
+"在SQL中,用來從資料庫中選取資料的關鍵字是甚麼?",GET,SELECT,TAKE,OBTAIN,B,"完全正確! SELECT 是最基本的查詢指令。",不對喔，這個字的意思是「選取」。,這是SQL最常用的指令之一。
+"JSON的全名是甚麼?",JavaScript Syntax On-demand,JavaScript Object Notation,Java Standard Object Network,JavaScript Oriented Network,B,"太棒了! 它是一種輕量級的資料交換格式。",不對，它和JavaScript的物件語法很像。,它的名字裡有 'JavaScript' 和 'Object'。
+"哪個符號在CSS中用來選取id?",.,#,&,$,B,"是的! # 號用來選取唯一的元素。",不對，另一個常用的 '.' 是用來選取class的。,這個符號在鍵盤的數字 '3' 上方。
+"在JavaScript中, `===` 和 `==` 有甚麼不同?","`===`是賦值, `==`是比較",兩個完全一樣,"`===`比較型別和值,`==`只比較值",`==`比較嚴格,`===`比較寬鬆,C,"完全正確! `===` 是嚴格相等，`==` 會做型別轉換。",不完全正確，關鍵在於「型別」的比較。,想想看「嚴格相等」。
+"用來描述網站「骨架」的是哪種技術?",CSS,HTML,JavaScript,Python,B,"答对了! HTML負責網頁的結構。",不對喔，它不是CSS也不是JavaScript。,H-T-M-L
+"哪個Git指令可以將本地的commit推送到遠端倉庫?",git pull,git commit,git upload,git push,D,"太棒了! 就是 git push。",不對，這個指令是「推送」的意思。,這個指令中有 'push' 這個詞。
+"在JavaScript的for迴圈中, `break` 陳述句的作用是甚麼?",跳到下一次迭代,完全跳出迴圈,讓程式崩潰,回傳一個值,B,"是的, `break` 會立即終止整個迴圈的執行。",不對喔，它不是跳過本次迭代，而是完全停止。,它會「打破」迴圈。
+"API是什麼的縮寫?",Automated Programming Instruction,Application Process Integration,Advanced Program Interaction,Application Programming Interface,D,"沒錯! 應用程式介面。",不對，它讓不同的軟體可以互相溝通。,I 代表 'Interface' (介面)。
+"在React中,用來管理元件狀態的主要掛鉤(Hook)是甚麼?",useEffect,useState,useContext,useReducer,B,"完全正確! `useState` 是最基本的狀態管理Hook。",不對，這個Hook的名字和「狀態」有關。,這個Hook的名字以 'use' 開頭。
+"哪一個不是有效的程式語言?",Java,Python,HTML,C++,C,"答對了! HTML是標記語言，不是程式語言。",不對，雖然它和網頁有關，但它沒有邏輯、迴圈等程式語言的功能。,它只用來定義結構。
+"Python中的 `len()` 函式有什麼作用?",將字串轉為大寫,產生一個隨機數,回傳物件的長度,計算次方,C,"是的! 例如字串的長度或列表的元素數量。",不對喔，它的名字是 'length' 的縮寫。,想想 'length' 這個字。
+"終端機(Terminal)中的 `cd` 指令是做什麼用的?",複製檔案,建立目錄,改變當前目錄,刪除檔案,C,"完全正確! `cd` 是 Change Directory 的縮寫。",不對，這個指令用來在資料夾之間「移動」。,C 是 Change，D 是 Directory。
